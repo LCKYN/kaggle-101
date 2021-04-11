@@ -1,0 +1,7 @@
+kaggle/*/.ipynb_checkpoints
+
+kaggle/*/data/*
+kaggle/*/submission/*
+
+!kaggle/*/data/README.MD
+!kaggle/*/submission/README.MD
